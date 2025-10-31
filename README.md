@@ -3,6 +3,8 @@
 ## Overview
 Moodle IPCA Notifier is a userscript designed to track and notify changes in topics and resources within courses on the Moodle platform of IPCA. It helps students stay updated on new content, removed content, and modifications in their course materials.
 
+![Example screenshot](https://github.com/a34623/moodle_check_for_curses_updates/blob/main/example.png.png?raw=true)
+
 ## Features
 - Floating button to manually trigger update verification.
 - Real-time progress loader during data fetching.
@@ -37,6 +39,8 @@ Comet Assistant
 
 ## Visão Geral
 Moodle IPCA Notificador é um userscript criado para monitorizar e notificar alterações em tópicos e recursos nas disciplinas Moodle IPCA. Ajuda os estudantes a manterem-se atualizados com novos conteúdos, conteúdos removidos e modificações.
+
+![Example screenshot](https://github.com/a34623/moodle_check_for_curses_updates/blob/main/example.png.png?raw=true)
 
 ## Funcionalidades
 - Botão flutuante para iniciar manualmente a verificação de atualizações.
